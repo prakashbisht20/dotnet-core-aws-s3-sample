@@ -1,0 +1,6 @@
+@dotnet_s3_HostAddress = http://localhost:5056
+
+GET {{dotnet_s3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
